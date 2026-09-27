@@ -27,11 +27,11 @@ and investigate how selected parameters affect stress and factor of safety.
 
 ### Normal Stress
 
-[formula]
+ \(\sigma = \frac{P}{A}\)
 
 ### Factor of Safety
 
-[formula]
+maximum stress/design stress
 
 ## Assumptions
 
