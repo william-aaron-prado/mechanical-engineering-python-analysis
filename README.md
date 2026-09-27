@@ -50,7 +50,7 @@ Briefly explain what parameters were varied and what was observed.
 
 ## Sample Output
 
-Briefly describe the Day 46 calculator output.
+Briefly describe the calculator output.
 
 ## Results
 
