@@ -31,7 +31,7 @@ stress=Force/Area
 
 ### Factor of Safety
 
-maximum stress/design stress
+Material strength/applied stress
 
 ## Assumptions
 
