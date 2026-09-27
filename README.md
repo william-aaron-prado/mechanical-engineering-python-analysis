@@ -23,11 +23,11 @@ and investigate how selected parameters affect stress and factor of safety.
 
 ### Cross-sectional Area
 
-[formula]
+Area = (pi)(r^2)
 
 ### Normal Stress
 
- \(\sigma = \frac{P}{A}\)
+stress=Force/Area
 
 ### Factor of Safety
 
